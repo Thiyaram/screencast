@@ -17,7 +17,7 @@ gem 'kaminari'
 # gem 'will_paginate', '~> 3.0'
 #gem 'activemerchant', :require => 'active_merchant'
 #gem 'paypal-recurring'
-gem 'stripe'
+#gem 'stripe'
 
 group :assets do
   gem 'less-rails'
